@@ -1,4 +1,4 @@
-<h3 style="background-color:powderblue;">This software comes with absolutely no warranty.</h3>
+<h3 style="color:red;">This software comes with absolutely no warranty.</h3>
 
 **<h1>What is Duplicate Emails Cleaner?</h1>**
 
