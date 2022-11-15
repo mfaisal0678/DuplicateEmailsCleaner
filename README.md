@@ -1,6 +1,6 @@
 This software comes with absolutely no warranty.
 
-**What is Duplicate Emails Cleaner?**
+**<h1>What is Duplicate Emails Cleaner?</h1>**
 
 Duplicate Emails Cleaner is a free Add-in for Outlook.
 
