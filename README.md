@@ -1,10 +1,10 @@
-This software comes with absolutely no warranty.
+<h3 color="red">This software comes with absolutely no warranty.</h3>
 
 **<h1>What is Duplicate Emails Cleaner?</h1>**
 
 Duplicate Emails Cleaner is a free Add-in for Outlook.
 
-**How it Works?**
+**<h1>How it Works?</h1>**
 
 Install Duplicate Emails Cleaner as an Add-in to your Outlook. Start cleaning up folders which contains duplicate emails. Select the target folder you want to clean.
 
@@ -14,6 +14,6 @@ It will create a folder name Duplicates and move all items to this folder and la
 
 ![image](https://user-images.githubusercontent.com/91064560/201829654-8969c7d8-131d-4d32-9895-8af6820d139e.png)
 
-**Prerequisites:**
+**<h1>Prerequisites:</h1>**
 
 Dot Net Framework 4.7 (Not tested on earlier versions)
